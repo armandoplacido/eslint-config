@@ -1,8 +1,9 @@
 {
-  "name": "@armandoplacido/eslint-config",
+  "name": "armandoplacido-eslint-config",
   "version": "1.0.0",
   "description": "Eslint configuration for my projects",
   "main": "index.js",
+  "private": false,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/armandoplacido/eslint-config.git"
